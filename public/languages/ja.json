@@ -1,0 +1,23 @@
+{
+  "code": "ja",
+  "name": "Japanese",
+  "native": "日本語",
+  "script": "Mixed",
+  "keyboard": {
+    "layout": "romaji",
+    "rows": [
+      ["`", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "-", "=", "Backspace"],
+      ["Tab", "q", "w", "e", "r", "t", "y", "u", "i", "o", "p", "[", "]", "\\"],
+      ["Caps", "a", "s", "d", "f", "g", "h", "j", "k", "l", ";", "'", "Enter"],
+      ["Shift", "z", "x", "c", "v", "b", "n", "m", ",", ".", "/", "Shift"],
+      ["Ctrl", "Alt", "Space", "Alt", "Ctrl"]
+    ]
+  },
+  "sampleText": "日本語はきれいな言語です。日本で話されています。ひらがなとカタカナがあります。",
+  "ligatures": [
+    { "sequence": ["き", "ょ"], "result": "きょ" },
+    { "sequence": ["し", "ゃ"], "result": "しゃ" },
+    { "sequence": ["ち", "ゃ"], "result": "ちゃ" }
+  ],
+  "font": "Noto Sans JP"
+}

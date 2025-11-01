@@ -1,0 +1,19 @@
+{
+  "code": "fr",
+  "name": "French",
+  "native": "Français",
+  "script": "Latin",
+  "keyboard": {
+    "layout": "azerty",
+    "rows": [
+      ["²", "&", "é", "\"", "'", "(", "-", "è", "_", "ç", "à", ")", "=", "Backspace"],
+      ["Tab", "a", "z", "e", "r", "t", "y", "u", "i", "o", "p", "^", "$", "*"],
+      ["Caps", "q", "s", "d", "f", "g", "h", "j", "k", "l", "m", "ù", "Enter"],
+      ["Shift", "w", "x", "c", "v", "b", "n", ",", ";", ":", "!", "Shift"],
+      ["Ctrl", "Alt", "Space", "Alt", "Ctrl"]
+    ]
+  },
+  "sampleText": "Le français est une langue élégante. Il est parlé dans de nombreux pays du monde.",
+  "ligatures": [],
+  "font": "Noto Sans"
+}
